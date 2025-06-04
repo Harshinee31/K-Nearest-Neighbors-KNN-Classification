@@ -68,7 +68,7 @@ The **target** variable is the species of the iris flower.
 - **Confusion Matrix** heatmap
 - **Decision Boundaries** using PCA:
 
-![KNN Decision Boundary](https://upload.wikimedia.org/wikipedia/commons/e/e7/Iris_dataset_scatterplot.svg)
+
 
 ---
 
